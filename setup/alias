@@ -1,0 +1,1 @@
+alias calc="pushd ~/calc; source calc/bin/activate; python -i calc.py; deactivate; popd"
